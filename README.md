@@ -27,8 +27,15 @@ Now you can start customizing your website! The config.yml file should be the fi
 
 Note that all of the above steps are based on the tutorial run by gnorthrup - the video link is below. 
 
+## Shortcuts
+Embed a picture: [pic1](/pic1.jpg)
+Links to other pages on your site: [research](/research/)
+Embed your CV: [Here is a copy of my CV](/files/CV.pdf)
+
+When embedding pictures and files, make sure the location of those files is indicated in the brackets (). 
+
 
 ## Resources used
-https://jekyllrb.com/docs/installation/macos/
-https://www.youtube.com/watch?v=8NkxcaxRacA&ab_channel=CompBioSkillsSeminarUCBerkeley
+https://jekyllrb.com/docs/installation/macos/;
+https://www.youtube.com/watch?v=8NkxcaxRacA&ab_channel=CompBioSkillsSeminarUCBerkeley;
 https://brew.sh
