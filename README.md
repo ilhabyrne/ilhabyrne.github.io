@@ -28,11 +28,11 @@ Now you can start customizing your website! The config.yml file should be the fi
 Note that all of the above steps are based on the tutorial run by gnorthrup - the video link is below. 
 
 ## Shortcuts
-Embed a picture: "[pic1](/pic1.jpg)";
-Links to other pages on your site: "[research](/research/)";
-Embed your CV: "[Here is a copy of my CV](/files/CV.pdf)"
+Embed a picture: [pic1] followed by (/pic1.jpg);
+Links to other pages on your site: [research] followed by (/research/);
+Embed your CV: [Here is a copy of my CV] followed by (/files/CV.pdf)
 
-When embedding pictures and files, make sure the location of those files is indicated in the brackets (). 
+When embedding pictures and files, make sure the location of those files is indicated in the brackets (). There should be no space between the square brackets and the normal brackets e.g., ](.
 
 
 ## Resources used
