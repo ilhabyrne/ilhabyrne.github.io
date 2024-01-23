@@ -1,4 +1,4 @@
-# Welcome to my GitHub pages site
+# Welcome to my GitHub Pages repository
 
 Below I have outlined some of the first steps that are required to build a website uidng GitHub Pages and Jekyll.
 
