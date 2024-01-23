@@ -12,7 +12,7 @@ Below I have outlined some of the first steps that are required to build a websi
 On your web version of GitHub, create a repository for your site by following the instructions here: https://pages.github.com/. There is no need to create an index file at this point. Once you have done this, make sure to clone the repository locally.
 
 ## Getting started
-On your local computer, use the command link to navigate to the folder that contains your newly created GitHub repository e.g., cd Documents/GitHub/ilhabyrne.github.io. Once in the repository, run the following command:
+On your local computer, use the command line to navigate to the folder that contains your newly created GitHub repository e.g., cd Documents/GitHub/ilhabyrne.github.io. Once in the repository, run the following command:
 `jekyll .new --force`
 This command will populate your repository with the base jekyll files need to make a website.
 
