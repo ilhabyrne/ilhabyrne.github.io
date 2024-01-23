@@ -8,7 +8,7 @@ title: About
 
 Welcome to my personal website!
 
-![Me](/ilha.jpeg)
-
 I am a molecular ecologist with 4 years of experience in [research](/research/) on marine invertebrates.
 [Here is my CV](/files/CV.pdf)
+
+![Sea](/sea.jpeg)
