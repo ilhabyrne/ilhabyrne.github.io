@@ -3,5 +3,9 @@ main:
 	url: /about/
 - title: "research"
 	url: /research/
--title: "CV"
+- title: "blog"
+	url: /blog/
+- title: "photography"
+	url: /photography/
+- title: "CV"
 	url: "/files/CV.pdf"
