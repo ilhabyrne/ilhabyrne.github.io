@@ -7,6 +7,6 @@ title: About
 ---
 I am a PhD candidate at the University of Queensland, Brisbane, Australia. I have worked predominantly on marine organisms and ecosystems spanning [research](/research/) using environmental DNA, community ecology and population genomics.
 
-[Here is my CV](/files/CV.pdf)
+[Here is a copy of my CV](/files/CV.pdf)
 
 ![Sea](/sea.jpeg)
