@@ -5,7 +5,7 @@
 layout: page
 title: About
 ---
-I am a molecular ecologist (working predominantly on marine organisms and ecosystems) with 4 years experience in [research](/research/).
+I am a PhD candidate at the University of Queensland, Brisbane, Australia. I have worked predominantly on marine organisms and ecosystems spanning [research](/research/) using environmental DNA, community ecology and population genomics.
 
 [Here is my CV](/files/CV.pdf)
 
