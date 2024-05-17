@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Ilha Byrne",
+    "section": "",
+    "text": "Welcome to my personal website!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ilha Byrne",
@@ -9,8 +16,8 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD candidate at the University of Queensland, Brisbane, Australia. I have worked predominantly on marine organisms and ecosystems spanning [research](/research/) using environmental DNA, community ecology and population genomics.\n[Here is a copy of my CV](/files/CV.pdf)\n![Sea](/images/sea.jpeg)"
   }
 ]
