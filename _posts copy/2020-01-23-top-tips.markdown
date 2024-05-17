@@ -1,8 +1,0 @@
----
-layout: post
-title:  "My top tips for undergraduate students in science"
-date:   2020-01-23 15:07:13 +1000
-categories: jekyll update
----
-
-I completed my BSc undergraduate studies at the University of Queensland, Brisbane, Australia. I often get asked by students that I tutor or mentor about how to navigate careers in science, how to build your CV etc., so I have assembled some of my top tips below!
