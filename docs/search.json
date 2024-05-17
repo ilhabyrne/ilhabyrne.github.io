@@ -18,6 +18,6 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "I am a PhD candidate at the University of Queensland, Brisbane, Australia. I have worked predominantly on marine organisms and ecosystems spanning [research](/research/) using environmental DNA, community ecology and population genomics.\n[Here is a copy of my CV](/files/CV.pdf)\n![Sea](/images/sea.jpeg)"
+    "text": "I am a PhD candidate at the University of Queensland, Brisbane, Australia. I have worked predominantly on marine organisms and ecosystems spanning [research](/research/) using environmental DNA, community ecology and population genomics.\n[Here is a copy of my CV](../files/CV.pdf)\n![Sea](../images/sea.jpeg)"
   }
 ]
