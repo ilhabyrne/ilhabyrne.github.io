@@ -1,9 +1,9 @@
 ---
 title: "Photography"
-description: "Underwater photography from reefs and fieldwork by marine biologist Ilha Byrne."
+description: "My underwater photography from reefs and fieldwork."
 ---
 
-Time spent underwater for research is also time spent watching reefs closely. These images are from my own diving and fieldwork — a mix of the charismatic, the cryptic and the easily overlooked. *Click any photo to view it full size.*
+*Click any photo to view it full size.*
 
 ::: {.gallery}
 <figure><a href="images/gallery/reefscape.jpg" target="_blank"><img src="images/gallery/reefscape.jpg" alt="Coral reef-scape with schooling damselfish"><figcaption>Reef-scape with schooling damselfish</figcaption></a></figure>

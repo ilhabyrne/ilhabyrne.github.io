@@ -1,15 +1,17 @@
 ---
 title: "Research"
-description: "Ilha Byrne's research spans coral population genomics, environmental DNA, and reef community ecology."
+description: "My research spans coral population and conservation genomics, evolutionary genomics, macrogenetics and environmental DNA."
 ---
 
-My research connects **genetic variation** to the **ecological and environmental context** that produces it. I work across scales — from the DNA within a single coral colony to the composition of whole reef communities — using genomics, molecular tools and field ecology to inform marine conservation.
+I connect **genetic variation** to the **ecological and evolutionary processes** that produce it. I work across scales, from the DNA within a single coral colony to patterns of diversity across many species and reefs, using genomics and molecular tools to understand how marine life evolves and to inform its conservation.
 
 ## Coral population &amp; conservation genomics
 
-Reef-building corals hold enormous genetic diversity, yet we still understand little about how it is partitioned across species, habitats and reefs. I use **population genomics** to resolve cryptic diversity and to ask how the reef environment shapes patterns of genetic variation and differentiation.
+This is the core of my **PhD thesis**. I use **population and evolutionary genomics** to uncover hidden diversity in reef corals and to understand the processes that generate and maintain it, including **speciation**, **gene flow**, reproductive isolation and local **adaptation**.
 
-Recent projects include genomic evidence for **cryptic species and habitat specialisation in the brooding coral *Seriatopora hystrix*** along the Great Barrier Reef; estimates of genetic diversity and differentiation in the Caribbean coral ***Agaricia tenuifolia***; and **causal modelling** showing that corals in more environmentally heterogeneous reefs can carry lower genetic diversity. This work supports efforts such as the **Reef Restoration and Adaptation Program** to conserve and restore corals in a warming ocean.
+My thesis centres on the brooding coral *Seriatopora hystrix* along the Great Barrier Reef, where genomic data reveal **cryptic species and habitat specialisation**: lineages that look alike but are genetically distinct and sorted across reef environments. Reading these patterns through the lens of gene flow and divergence helps clarify how coral species form and persist, and how much of what we treat as a single species is in fact several.
+
+Alongside this species-level work I take a **macrogenetic** view, synthesising and comparing **genetic diversity across many species and across space** to ask what general rules shape diversity on reefs. Related projects include estimates of genetic diversity and differentiation in the Caribbean coral *Agaricia tenuifolia*, and **causal modelling** showing that corals in more environmentally heterogeneous reefs can carry lower genetic diversity. Together this work supports efforts such as the **Reef Restoration and Adaptation Program** to conserve and restore corals in a warming ocean.
 
 ::: {.figure-grid}
 ![*Seriatopora hystrix* colony in the field](images/seriatopora-colony.jpg){fig-alt="Branching Seriatopora hystrix coral colony with a measuring scale"}
@@ -21,14 +23,14 @@ Recent projects include genomic evidence for **cryptic species and habitat speci
 
 ## Environmental DNA &amp; biodiversity monitoring
 
-Traces of DNA shed into seawater can reveal the species present on a reef without ever seeing them. I use **environmental DNA (eDNA) and DNA metabarcoding** to detect and monitor marine biodiversity — approaches that can make surveys faster, less invasive and more sensitive to hard-to-observe life stages.
+Traces of DNA shed into seawater can reveal the species present on a reef without ever seeing them. I use **environmental DNA (eDNA) and DNA metabarcoding** to detect and monitor biodiversity, approaches that can make surveys faster, less invasive and more sensitive to hard-to-observe life stages. My Honours research developed metabarcoding to characterise the spatio-temporal distribution of planktonic **echinoderm larvae**, and I have since applied eDNA to monitor benthic communities in Quandamooka (Moreton Bay).
 
-My Honours research developed metabarcoding to characterise the **spatio-temporal distribution of planktonic echinoderm larvae**, and I have applied eDNA to monitor **benthic marine communities in Quandamooka (Moreton Bay)**, linking molecular detection to community-scale change.
+I have also contributed to reef community monitoring through **Reef Check Australia** surveys and the **Mooloolaba Ecological Assessment and Mapping** project.
 
-## Reef community ecology &amp; monitoring
+## Beyond marine systems
 
-Genetic and molecular data are most powerful when grounded in ecology. Through projects including **Sustainable Urban Seascapes Moreton Bay**, the **Mooloolaba Ecological Assessment and Mapping** project, and long-term **Reef Check Australia** surveys, I study how benthic reef communities are structured and how they respond to environmental pressures — connecting fieldwork, citizen science and molecular monitoring.
+While my work so far has focused on marine systems, the questions that drive me are not confined to the ocean. The genomic and analytical approaches I use apply broadly across taxa, and I am always keen to extend them to new systems, questions and collaborations.
 
 ::: {.callout-tip appearance="simple"}
-For a full list of talks and posters, see [Publications &amp; Talks](publications.html). Published work is listed on my research profiles below.
+For a full list of talks and posters, see [Publications &amp; Talks](publications.html). My published work is listed on my research profiles.
 :::

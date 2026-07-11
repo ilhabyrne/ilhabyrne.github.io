@@ -1,6 +1,6 @@
 ---
 title: "Publications & Talks"
-description: "Conference presentations, posters and research profiles for marine biologist Ilha Byrne."
+description: "My conference presentations, posters and research profiles."
 ---
 
 ## Research profiles

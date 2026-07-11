@@ -2,13 +2,13 @@ project:
   type: website
   output-dir: ../docs
   resources:
-    - images/hero-shark.jpg
+    - images/reef-cay.jpg
   render:
     - "*.qmd"
 
 website:
   title: "Ilha Byrne"
-  description: "Ilha Byrne is a marine biologist and PhD candidate at the University of Queensland studying coral population genomics, environmental DNA and reef community ecology."
+  description: "I am a zoologist, evolutionary biologist and science communicator, and a PhD candidate at the University of Queensland researching coral population and conservation genomics, evolutionary genomics and environmental DNA."
   site-url: https://ilhabyrne.github.io
   favicon: images/favicon.svg
   open-graph: true
@@ -43,7 +43,7 @@ website:
         aria-label: Instagram
   page-footer:
     left: "© 2026 Ilha Byrne"
-    center: "Marine biologist · University of Queensland"
+    center: "Zoologist & evolutionary biologist · University of Queensland"
     right:
       - icon: envelope
         href: "mailto:ilhabyrne@gmail.com"

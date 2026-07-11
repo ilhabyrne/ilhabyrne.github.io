@@ -67,8 +67,8 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
   justify-content: center;
   text-align: center;
   color: #fff;
-  background: linear-gradient(rgba(7, 34, 45, 0.45), rgba(7, 34, 45, 0.68)),
-              url('/images/hero-shark.jpg') center 40% / cover no-repeat;
+  background: linear-gradient(rgba(7, 34, 45, 0.42), rgba(7, 34, 45, 0.66)),
+              url('/images/reef-cay.jpg') center center / cover no-repeat;
 }
 .hero-inner { max-width: 760px; padding: 3.5rem 1.5rem; }
 .hero h1, .hero .hero-name {
@@ -100,32 +100,46 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 }
 .hero-social a:hover { color: $coral-soft; transform: translateY(-3px); text-decoration: none; }
 
-// ---- Section card grid ----
-.section-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.25rem;
-  margin: 2rem 0 1rem;
+// ---- Circular tab navigation (home) ----
+.circle-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.6rem 2rem;
+  margin: 2.6rem auto 1.5rem;
+  max-width: 720px;
 }
-.section-card {
-  display: block;
+.circle-tab {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+  width: 118px;
+  text-align: center;
+  border-bottom: none !important;
+}
+.circle-tab .circle {
+  width: 104px;
+  height: 104px;
+  border-radius: 50%;
   background: #fff;
-  border: 1px solid rgba(11, 58, 77, 0.08);
-  border-radius: $border-radius;
-  padding: 1.6rem 1.4rem;
-  box-shadow: 0 4px 18px rgba(11, 58, 77, 0.06);
-  transition: transform .18s ease, box-shadow .18s ease, border-color .18s;
-  border-bottom: 1px solid rgba(11, 58, 77, 0.08) !important;
+  border: 2px solid rgba(42, 157, 143, 0.35);
+  display: grid;
+  place-items: center;
+  box-shadow: 0 6px 18px rgba(11, 58, 77, 0.10);
+  transition: transform .2s ease, background .2s ease, border-color .2s ease, box-shadow .2s ease;
 }
-.section-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 28px rgba(11, 58, 77, 0.14);
-  border-color: $coral;
-  text-decoration: none;
+.circle-tab .bi { font-size: 2.3rem; color: $sea; transition: color .2s ease; }
+.circle-tab .label { font-weight: 600; color: $deep; font-size: 0.98rem; line-height: 1.2; }
+.circle-tab:hover { text-decoration: none; }
+.circle-tab:hover .circle {
+  transform: translateY(-6px);
+  background: $deep;
+  border-color: $deep;
+  box-shadow: 0 14px 30px rgba(11, 58, 77, 0.22);
 }
-.section-card .bi { font-size: 1.9rem; color: $reef; display: block; margin-bottom: 0.7rem; }
-.section-card h3 { color: $deep; font-size: 1.28rem; margin: 0 0 0.35rem; }
-.section-card p { color: lighten($ink, 12%); font-size: 0.95rem; margin: 0; }
+.circle-tab:hover .bi { color: #fff; }
+.circle-tab:hover .label { color: $coral; }
 
 // ---- Research / content figures ----
 .figure-grid {

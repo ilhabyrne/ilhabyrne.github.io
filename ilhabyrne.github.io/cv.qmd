@@ -1,6 +1,6 @@
 ---
 title: "CV & Contact"
-description: "Download the CV of marine biologist Ilha Byrne and find contact and research profile links."
+description: "Download my CV and find my contact and research profile links."
 ---
 
 ## Curriculum vitae
@@ -15,8 +15,8 @@ My full CV covers my education, research and lab experience, teaching, awards an
 
 I am always happy to hear from potential collaborators, students and anyone interested in marine science and reef conservation.
 
-- <i class="bi bi-envelope-fill"></i> &nbsp;**Email** — [ilhabyrne@gmail.com](mailto:ilhabyrne@gmail.com)
-- <i class="bi bi-geo-alt-fill"></i> &nbsp;**Based at** — The University of Queensland, Brisbane, Australia
+- <i class="bi bi-envelope-fill"></i> &nbsp;**Email**: [ilhabyrne@gmail.com](mailto:ilhabyrne@gmail.com)
+- <i class="bi bi-geo-alt-fill"></i> &nbsp;**Based at**: The University of Queensland, Brisbane, Australia
 
 ## Find me online
 
