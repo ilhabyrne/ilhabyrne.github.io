@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0b3a4d"/>
+  <!-- coral branches -->
+  <g fill="none" stroke="#e76f51" stroke-width="4" stroke-linecap="round">
+    <path d="M32 50 V30"/>
+    <path d="M32 38 C32 30 24 30 24 22"/>
+    <path d="M32 34 C32 27 40 27 40 20"/>
+    <path d="M24 22 v-4 M40 20 v-4 M32 30 v-6"/>
+  </g>
+  <!-- waterline -->
+  <path d="M8 52 q8 -6 16 0 t16 0 t16 0" fill="none" stroke="#2a9d8f" stroke-width="3" stroke-linecap="round"/>
+</svg>

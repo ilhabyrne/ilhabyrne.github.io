@@ -1,5 +1,56 @@
 ---
-title: "Ilha Byrne"
+pagetitle: "Ilha Byrne — Marine Biologist"
+description: "Marine biologist and PhD candidate at the University of Queensland studying coral population genomics, environmental DNA and reef community ecology."
+page-layout: full
+toc: false
+anchor-sections: false
 ---
 
-Welcome to my personal website!
+```{=html}
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-name">Ilha Byrne</div>
+    <p class="tagline">Marine ecologist <span>·</span> Evolutionary biologist <span>·</span> Science communicator</p>
+    <p class="lead-intro">I study how genetic diversity and adaptation shape marine invertebrates — from corals on the Great Barrier Reef to the DNA drifting in seawater.</p>
+    <div class="hero-social">
+      <a href="mailto:ilhabyrne@gmail.com" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>
+      <a href="https://orcid.org/0000-0003-3909-2902" target="_blank" aria-label="ORCID"><i class="bi bi-person-badge-fill"></i></a>
+      <a href="https://github.com/ilhabyrne" target="_blank" aria-label="GitHub"><i class="bi bi-github"></i></a>
+      <a href="https://www.instagram.com/biologist.byrne" target="_blank" aria-label="Instagram"><i class="bi bi-instagram"></i></a>
+    </div>
+  </div>
+</section>
+
+<div class="section-cards">
+  <a class="section-card" href="about.html">
+    <i class="bi bi-person-circle"></i>
+    <h3>About</h3>
+    <p>Who I am, my path into marine science, and what drives my research.</p>
+  </a>
+  <a class="section-card" href="research.html">
+    <i class="bi bi-diagram-3-fill"></i>
+    <h3>Research</h3>
+    <p>Coral population genomics, environmental DNA, and reef community ecology.</p>
+  </a>
+  <a class="section-card" href="publications.html">
+    <i class="bi bi-journal-text"></i>
+    <h3>Publications &amp; Talks</h3>
+    <p>Conference presentations, posters, and links to my research profiles.</p>
+  </a>
+  <a class="section-card" href="outreach.html">
+    <i class="bi bi-people-fill"></i>
+    <h3>Teaching &amp; Outreach</h3>
+    <p>Teaching, science communication, and community reef conservation.</p>
+  </a>
+  <a class="section-card" href="photography.html">
+    <i class="bi bi-camera-fill"></i>
+    <h3>Photography</h3>
+    <p>Underwater photography from reefs and the field.</p>
+  </a>
+  <a class="section-card" href="cv.html">
+    <i class="bi bi-file-earmark-person-fill"></i>
+    <h3>CV &amp; Contact</h3>
+    <p>Download my CV and find the best way to reach me.</p>
+  </a>
+</div>
+```

@@ -1,20 +1,64 @@
 project:
   type: website
   output-dir: ../docs
+  resources:
+    - images/hero-shark.jpg
+  render:
+    - "*.qmd"
 
 website:
-  title: "ilhabyrne.github.io"
+  title: "Ilha Byrne"
+  description: "Ilha Byrne is a marine biologist and PhD candidate at the University of Queensland studying coral population genomics, environmental DNA and reef community ecology."
+  site-url: https://ilhabyrne.github.io
+  favicon: images/favicon.svg
+  open-graph: true
+  twitter-card: true
   navbar:
+    background: primary
+    title: "Ilha Byrne"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications & Talks
+      - href: outreach.qmd
+        text: Teaching & Outreach
+      - href: photography.qmd
+        text: Photography
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:ilhabyrne@gmail.com"
+        aria-label: Email
+      - icon: github
+        href: https://github.com/ilhabyrne
+        aria-label: GitHub
+      - icon: instagram
+        href: https://www.instagram.com/biologist.byrne
+        aria-label: Instagram
+  page-footer:
+    left: "© 2026 Ilha Byrne"
+    center: "Marine biologist · University of Queensland"
+    right:
+      - icon: envelope
+        href: "mailto:ilhabyrne@gmail.com"
+      - icon: github
+        href: https://github.com/ilhabyrne
 
 format:
   html:
-    theme: solar
-    css: styles.css
+    theme: [cosmo, theme.scss]
     toc: true
+    toc-location: right
+    include-in-header: head.html
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 860px
 
 editor: visual
-

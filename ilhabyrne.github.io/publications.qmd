@@ -1,0 +1,38 @@
+---
+title: "Publications & Talks"
+description: "Conference presentations, posters and research profiles for marine biologist Ilha Byrne."
+---
+
+## Research profiles
+
+My peer-reviewed work and full publication record are maintained on my research profiles:
+
+::: {.profile-links}
+[<i class="bi bi-mortarboard-fill"></i> Google Scholar](https://scholar.google.com/citations?user=oH1BQmQAAAAJ)
+[<i class="bi bi-journal-richtext"></i> ResearchGate](https://www.researchgate.net/search?q=Ilha%20Byrne)
+[<i class="bi bi-person-badge-fill"></i> ORCID](https://orcid.org/0000-0003-3909-2902)
+:::
+
+## Conference presentations
+
+::: {.talk-list}
+- [<span class="year">2025</span>]{} **Byrne I** *et al.* "Causal modelling reveals lower coral genetic diversity in more heterogeneous reef environments." *International Congress on Conservation Biology*, Brisbane, Australia.
+- [<span class="year">2024</span>]{} **Byrne I** *et al.* "Estimates of genetic diversity and differentiation in the Caribbean coral *Agaricia tenuifolia*." *Australian Coral Reef Society Conference*, Perth, Australia.
+- [<span class="year">2022</span>]{} **Byrne I** *et al.* "Monitoring the benthic marine communities in Quandamooka, Moreton Bay." *Australian Coral Reef Society Conference*, Brisbane, Australia.
+- [<span class="year">2022</span>]{} Roelfsema C *et al.* (incl. **Byrne I**) "Citizen Science: The Mooloolaba Ecological Assessment and Mapping Project." *Australian Coral Reef Society Conference*, Brisbane, Australia.
+- [<span class="year">2022</span>]{} **Byrne I** *et al.* "DNA metabarcoding as a tool to detect and monitor echinoderm larvae." *Australian Marine Sciences Association Conference*, Cairns, Australia.
+:::
+
+## Conference posters
+
+::: {.talk-list}
+- [<span class="year">2025</span>]{} **Byrne I** *et al.* "Genomic evidence of cryptic species and habitat specialization in the brooding coral *Seriatopora hystrix* along the Great Barrier Reef." *Congress of the European Society for Evolutionary Biology*, Barcelona, Spain.
+:::
+
+## Invited &amp; public talks
+
+::: {.talk-list}
+- [<span class="year">2025</span>]{} "Causal modelling reveals lower coral genetic diversity in more heterogeneous reef environments." *Centre for Marine Science Seminar.*
+- [<span class="year">2024</span>]{} "Navigating the publication process as a postgraduate student." *Centre for Marine Science Seminar.*
+- [<span class="year">2023</span>]{} "eDNA monitoring of the benthic marine communities in Quandamooka, Moreton Bay." *Reef Check Australia Public Webinar.*
+:::

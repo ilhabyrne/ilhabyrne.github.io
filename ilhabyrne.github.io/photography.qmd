@@ -1,0 +1,32 @@
+---
+title: "Photography"
+description: "Underwater photography from reefs and fieldwork by marine biologist Ilha Byrne."
+---
+
+Time spent underwater for research is also time spent watching reefs closely. These images are from my own diving and fieldwork — a mix of the charismatic, the cryptic and the easily overlooked. *Click any photo to view it full size.*
+
+::: {.gallery}
+<figure><a href="images/gallery/reefscape.jpg" target="_blank"><img src="images/gallery/reefscape.jpg" alt="Coral reef-scape with schooling damselfish"><figcaption>Reef-scape with schooling damselfish</figcaption></a></figure>
+
+<figure><a href="images/gallery/nudibranch.jpg" target="_blank"><img src="images/gallery/nudibranch.jpg" alt="Chromodoris nudibranch on the reef"><figcaption>Chromodoris nudibranch</figcaption></a></figure>
+
+<figure><a href="images/gallery/leaf-scorpionfish.jpg" target="_blank"><img src="images/gallery/leaf-scorpionfish.jpg" alt="Teal leaf scorpionfish camouflaged among coral"><figcaption>Leaf scorpionfish</figcaption></a></figure>
+
+<figure><a href="images/gallery/toby.jpg" target="_blank"><img src="images/gallery/toby.jpg" alt="Black-saddled toby pufferfish"><figcaption>Black-saddled toby</figcaption></a></figure>
+
+<figure><a href="images/gallery/crown-of-thorns.jpg" target="_blank"><img src="images/gallery/crown-of-thorns.jpg" alt="Crown-of-thorns seastar on the reef"><figcaption>Crown-of-thorns seastar</figcaption></a></figure>
+
+<figure><a href="images/gallery/anemone.jpg" target="_blank"><img src="images/gallery/anemone.jpg" alt="Colourful sea anemone tentacles"><figcaption>Sea anemone</figcaption></a></figure>
+
+<figure><a href="images/gallery/leaf-scorpionfish-white.jpg" target="_blank"><img src="images/gallery/leaf-scorpionfish-white.jpg" alt="Pale leaf scorpionfish among coral"><figcaption>Leaf scorpionfish, pale morph</figcaption></a></figure>
+
+<figure><a href="images/gallery/soft-coral-1.jpg" target="_blank"><img src="images/gallery/soft-coral-1.jpg" alt="Soft coral polyps"><figcaption>Soft coral polyps</figcaption></a></figure>
+
+<figure><a href="images/gallery/soft-coral-2.jpg" target="_blank"><img src="images/gallery/soft-coral-2.jpg" alt="Soft coral polyps close up"><figcaption>Soft coral polyps</figcaption></a></figure>
+
+<figure><a href="images/gallery/seagrass.jpg" target="_blank"><img src="images/gallery/seagrass.jpg" alt="Seagrass blades"><figcaption>Seagrass</figcaption></a></figure>
+:::
+
+::: {.callout-note appearance="simple"}
+All images © Ilha Byrne. Please get in touch before reusing them.
+:::
