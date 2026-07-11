@@ -3,6 +3,7 @@ project:
   output-dir: ../docs
   resources:
     - images/reef-cay.jpg
+    - google1fa9b732cc037359.html
   render:
     - "*.qmd"
 
