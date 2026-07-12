@@ -1,6 +1,6 @@
 ---
 title: "Photography"
-description: "My underwater photography from reefs and fieldwork."
+description: "My amateur photography from adventures in the field and abroad."
 ---
 
 *Click any photo to view it full size.*

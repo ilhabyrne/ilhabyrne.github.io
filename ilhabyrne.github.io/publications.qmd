@@ -1,6 +1,5 @@
 ---
 title: "Publications & Talks"
-description: "My conference presentations, posters and research profiles."
 ---
 
 ## Research profiles
@@ -16,6 +15,8 @@ My peer-reviewed work and full publication record are maintained on my research 
 ## Conference presentations
 
 ::: {.talk-list}
+- [<span class="year">2026</span>]{} **Byrne I** *et al.* "Genomic evidence for cryptic species and limited dispersal in a coral species complex." *International Coral Reef Society Conference*, Auckland, New Zealand.
+- [<span class="year">2026</span>]{} **Byrne I** *et al.* "Genomic evidence for speciation in sympatry in the coral *Seriatopora hystrix*." *Genetics Society of Australia Meeting*, Brisbane, Australia.
 - [<span class="year">2025</span>]{} **Byrne I** *et al.* "Causal modelling reveals lower coral genetic diversity in more heterogeneous reef environments." *International Congress on Conservation Biology*, Brisbane, Australia.
 - [<span class="year">2024</span>]{} **Byrne I** *et al.* "Estimates of genetic diversity and differentiation in the Caribbean coral *Agaricia tenuifolia*." *Australian Coral Reef Society Conference*, Perth, Australia.
 - [<span class="year">2022</span>]{} **Byrne I** *et al.* "Monitoring the benthic marine communities in Quandamooka, Moreton Bay." *Australian Coral Reef Society Conference*, Brisbane, Australia.
