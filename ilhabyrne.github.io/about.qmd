@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "I am a zoologist and PhD candidate at the University of Queensland working on coral population and conservation genomics, evolutionary genomics and environmental DNA."
+description: "I am currently a PhD candidate at the University of Queensland working on coral evolutionary and conservation genomics in the Riginos Research Group."
 ---
 
 ![](images/ilha-byrne.jpg){.portrait fig-alt="Portrait of Ilha Byrne"}

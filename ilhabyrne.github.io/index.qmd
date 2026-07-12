@@ -11,7 +11,6 @@ anchor-sections: false
   <div class="hero-inner">
     <div class="hero-name">Ilha Byrne</div>
     <p class="tagline">Zoologist <span>·</span> Evolutionary biologist <span>·</span> Science communicator</p>
-    <p class="lead-intro">I study how genetic diversity and adaptation shape marine invertebrates, from corals on the Great Barrier Reef to the DNA drifting in seawater.</p>
     <div class="hero-social">
       <a href="mailto:ilhabyrne@gmail.com" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>
       <a href="https://orcid.org/0000-0003-3909-2902" target="_blank" aria-label="ORCID"><i class="bi bi-person-badge-fill"></i></a>
